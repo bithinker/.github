@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../brand/banner.png" alt="bithinker — Products that help businesses grow." width="100%">
+  <img src="https://raw.githubusercontent.com/bithinker/.github/main/brand/banner.png" alt="bithinker — Products that help businesses grow." width="100%">
 </p>
 
 **bithinker** builds products that help people grow their businesses. We start from how a business actually works and shape the software around it, so owners stop bending their company to fit a fixed tool.
