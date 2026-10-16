@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>bithinker</title>
+  <defs>
+    <radialGradient id="glow" cx="0.72" cy="0.22" r="0.95">
+      <stop offset="0" stop-color="#1c2150"/>
+      <stop offset="0.55" stop-color="#12163a"/>
+      <stop offset="1" stop-color="#090b1c"/>
+    </radialGradient>
+    <linearGradient id="mark" gradientUnits="userSpaceOnUse" x1="90" y1="96" x2="380" y2="416">
+      <stop offset="0" stop-color="#8fa4ff"/>
+      <stop offset="1" stop-color="#2e4fe8"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb38a"/>
+      <stop offset="1" stop-color="#ff6b8b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#glow)"/>
+  <!-- "1" (stem) + "0" (bowl) = b: one bit, one thought -->
+  <g fill="none" stroke="url(#mark)" stroke-width="56" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 176 L174 132 L174 388"/>
+    <ellipse cx="254" cy="300" rx="80" ry="88"/>
+  </g>
+  <!-- the spark: the thinking -->
+  <path fill="url(#spark)" d="M372 76 C377 108 388 119 420 124 C388 129 377 140 372 172 C367 140 356 129 324 124 C356 119 367 108 372 76 Z"/>
+</svg>
