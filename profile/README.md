@@ -19,6 +19,6 @@
 
 ## The name
 
-`bit` + `thinker`. The mark is a **1** and a **0** joined into a **b**, with a spark for the idea behind every bit we ship.
+`bit` + `thinker`. The mark is two bits side by side: a filled square for **1** and an empty one for **0**. The same two bits dot the i's in the wordmark.
 
 <sub>Founded in 2026 by <a href="https://github.com/mrfansi">@mrfansi</a>.</sub>
